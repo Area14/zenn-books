@@ -1,11 +1,11 @@
 title: "ひとり社長のAI経営チーム"
 summary: "Claude Codeのエージェント機能でSlack上にAI秘書・リサーチャー・経理・営業・マーケの5人を構築し、ひとり社長の経営を自動化する実践ガイド"
 topics:
+  - "ClaudeManagedAgent"
   - "AI"
   - "Slack"
   - "Claude"
   - "業務自動化"
-  - "起業"
 published: true
 price: 1200
 toc_depth: 2
